@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btbishop93&label=Profile%20views&color=0e75b6&style=flat" alt="btbishop93" /> </p>
 
-- 🔭 I’m currently working on [Forwheel](https://www.forwheel.app/)
+- 🔭 My Goal for 2022 is to contribute more to open source projects
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **any open source Flutter projects**
 
 - 🤝 I’m looking for help with [Forwheel](https://www.forwheel.app/)
 
-- 💬 Ask me about **Architecture, Flutter, or GraphQL**
+- 💬 Ask me about **Architecture, Flutter, Cryptocurrency or GraphQL**
 
 - 📫 How to reach me **btbishop93@gmail.com**
 
