@@ -13,10 +13,6 @@
 
 - 💬 Ask me about **Architecture, Flutter, Cryptocurrency or GraphQL**
 
-- 📫 How to reach me **btbishop93@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/brenden-b-tb93/](https://www.linkedin.com/in/brenden-b-tb93/)
-
 - ⚡ Fun fact **I am a big Top Chef fan! I am passionate about cooking and eating top notch food.**
 
 ---
