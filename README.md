@@ -31,7 +31,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btbishop93&show_icons=true&locale=en&count_private=true" alt="btbishop93" /></p>
+<p>&nbsp;<img align="center" src="https://my-github-stats-e9hs.vercel.app/api?username=btbishop93&show_icons=true&theme=transparent&locale=en&count_private=true" alt="btbishop93" /></p>
 
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btbishop93&" alt="btbishop93" /></p>
