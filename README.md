@@ -3,25 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btbishop93&label=Profile%20views&color=0e75b6&style=flat" alt="btbishop93" /> </p>
 
-- 🔭 My **Goal for 2024** is to contribute more to open source projects
+- 🔭 My **Goal for 2025** is to collaborate on at least 3 open source projects
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React & Next.js**
 
-- 👯 I’m looking to collaborate on **any open source Flutter projects**
+- 💬 Ask me about **Architecture, New Frameworks, Business ideas, or AI**
 
-- 🤝 I’m looking for help with [Forwheel](https://www.forwheel.app/)
-
-- 💬 Ask me about **Architecture, Flutter, Cryptocurrency or GraphQL**
-
-- ⚡ Fun fact **I am a big Top Chef fan! I am passionate about cooking and eating top notch food.**
+- ⚡ Fun fact **I am a big Top Chef fan! I am passionate about cooking and eating incredible food.**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brenden-b-tb93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brenden-b-tb93" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bbish937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bbish937" height="30" width="40" /></a>
-<a href="https://instagram.com/bbish937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bbish937" height="30" width="40" /></a>
 </p>
 
 ---
